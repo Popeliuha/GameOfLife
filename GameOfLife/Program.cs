@@ -18,6 +18,7 @@ namespace GameOfLife
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine(  "hello");
+            Console.WriteLine("For third commit");
         }
     }
 }
